@@ -12,5 +12,3 @@ And it's a Draw if both the values are Equal.
 <li>JavaScript</li>
 <li>DOM-Manipulation</li>
 </ul>
-
-Preview-Link: 
