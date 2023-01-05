@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #EEEEEE;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Kaushan Script', cursive;
+  text-shadow: 5px 0 #DC5F00;
+  font-size: 8rem;
+  color: #000000;
+}
+
+p {
+  font-size: 2rem;
+  color: #CF0A0A;
+  font-family: 'Itim', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #000000;
+  text-align: center;
+  font-family: 'Neucha', cursive;
+
+}
